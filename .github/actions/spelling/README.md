@@ -1,5 +1,7 @@
 # check-spelling/check-spelling configuration
 
+<!-- Trigger workflow -->
+
 File | Purpose | Format | Info
 -|-|-|-
 [dictionary.txt](dictionary.txt) | Replacement dictionary (creating this file will override the default dictionary) | one word per line | [dictionary](https://github.com/check-spelling/check-spelling/wiki/Configuration#dictionary)
